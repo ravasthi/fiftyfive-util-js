@@ -1,5 +1,5 @@
 /*
- * Copyright 2012 55 Minutes (http://www.55minutes.com)
+ * Copyright 2015 55 Minutes (http://www.55minutes.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 
 /*------------------------------------------------------------------------------
 | 55_utils.js
-| 55 Minutes JS utilities v5.0
+| 55 Minutes JS utilities v6.0
 | Author: Richa Avasthi
 | Created: 2010-01-26
 |

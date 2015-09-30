@@ -1,0 +1,19 @@
+{
+  "name": "fiftyfive-util-js",
+  "version": "6.0.0",
+  "homepage": "https://github.com/55minutes/fiftyfive-util-js",
+  "authors": [
+    "55 Minutes"
+  ],
+  "description": "A handful of JavaScript utilities to patch over gaps in Modernizr, jQuery, and jQuery UI.",
+  "main": "55_utils.js",
+  "moduleType": [],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
